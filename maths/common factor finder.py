@@ -43,7 +43,6 @@ def common_factor(number1,number2):
       if main.count(other[i]) != 0:
          common_factor_list.append(other[i])
    print(common_factor_list)
-common_factor(25,125)
          
       
       
